@@ -1,0 +1,10 @@
+.sideBar {
+    position: absolute;
+    top: 50%;
+    color: white;
+    right: 20px;
+}
+.sideBar__icons{
+    padding: 10px;
+    text-align: center;
+}
